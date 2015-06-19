@@ -1,0 +1,80 @@
+{
+  "time_entry_activities": [
+    {
+      "id": 14,
+      "name": "Requirement"
+    },
+    {
+      "id": 8,
+      "name": "Architecture and Design"
+    },
+    {
+      "id": 9,
+      "name": "Implementation"
+    },
+    {
+      "id": 11,
+      "name": "UI"
+    },
+    {
+      "id": 16,
+      "name": "Test Case Preparation"
+    },
+    {
+      "id": 10,
+      "name": "Test Execution"
+    },
+    {
+      "id": 21,
+      "name": "Bug/Rework"
+    },
+    {
+      "id": 19,
+      "name": "UAT and Training"
+    },
+    {
+      "id": 17,
+      "name": "Deployment"
+    },
+    {
+      "id": 20,
+      "name": "Support"
+    },
+    {
+      "id": 13,
+      "name": "Project Management"
+    },
+    {
+      "id": 12,
+      "name": "Meetings"
+    },
+    {
+      "id": 18,
+      "name": "Client Issue investigation"
+    },
+    {
+      "id": 22,
+      "name": "R&D"
+    },
+    {
+      "id": 23,
+      "name": "SOW/PCR/Proposal"
+    },
+    {
+      "id": 24,
+      "name": "Training"
+    },
+    {
+      "id": 25,
+      "name": "KT"
+    },
+    {
+      "id": 26,
+      "name": "Review"
+    },
+    {
+      "id": 44,
+      "name": "Estimation"
+    }
+  ]
+}

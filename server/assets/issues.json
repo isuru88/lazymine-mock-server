@@ -1,0 +1,156 @@
+{
+  "issues": [
+    {
+      "id": 31518,
+      "project": {
+        "id": 62,
+        "name": "Lazymine Test Project #1"
+      },
+      "tracker": {
+        "id": 20,
+        "name": "Project Meeting"
+      },
+      "status": {
+        "id": 1,
+        "name": "New"
+      },
+      "priority": {
+        "id": 2,
+        "name": "Normal"
+      },
+      "author": {
+        "id": 121,
+        "name": "isuru88"
+      },
+      "subject": "Cats!!",
+      "description": "",
+      "start_date": "2015-06-15",
+      "done_ratio": 0,
+      "created_on": "2015-06-15T12:37:00Z",
+      "updated_on": "2015-06-15T12:37:00Z"
+    },
+    {
+      "id": 31501,
+      "project": {
+        "id": 266,
+        "name": "Lazymine Test Project #1"
+      },
+      "tracker": {
+        "id": 18,
+        "name": "Review"
+      },
+      "status": {
+        "id": 1,
+        "name": "New"
+      },
+      "priority": {
+        "id": 2,
+        "name": "Normal"
+      },
+      "author": {
+        "id": 223,
+        "name": "chathuranga"
+      },
+      "subject": "Review Cats",
+      "description": "",
+      "start_date": "2015-06-15",
+      "done_ratio": 0,
+      "created_on": "2015-06-15T11:29:13Z",
+      "updated_on": "2015-06-15T11:29:13Z"
+    },
+    {
+      "id": 31486,
+      "project": {
+        "id": 4,
+        "name": "Project #2 for Lazymine"
+      },
+      "tracker": {
+        "id": 20,
+        "name": "Project Meeting"
+      },
+      "status": {
+        "id": 1,
+        "name": "New"
+      },
+      "priority": {
+        "id": 2,
+        "name": "Normal"
+      },
+      "author": {
+        "id": 227,
+        "name": "Raathigesh"
+      },
+      "subject": "Kittens!",
+      "description": "",
+      "start_date": "2015-06-15",
+      "done_ratio": 0,
+      "created_on": "2015-06-15T10:50:35Z",
+      "updated_on": "2015-06-15T10:50:35Z"
+    },
+    {
+      "id": 31485,
+      "project": {
+        "id": 186,
+        "name": "Project #2 for Lazymine"
+      },
+      "tracker": {
+        "id": 8,
+        "name": "Architecture & design"
+      },
+      "status": {
+        "id": 1,
+        "name": "New"
+      },
+      "priority": {
+        "id": 2,
+        "name": "Normal"
+      },
+      "author": {
+        "id": 12,
+        "name": "AwadMaharoof"
+      },
+      "subject": "Kitten Architecture",
+      "description": "",
+      "start_date": "2015-06-15",
+      "done_ratio": 0,
+      "created_on": "2015-06-15T10:39:22Z",
+      "updated_on": "2015-06-15T10:39:22Z"
+    },
+    {
+      "id": 31472,
+      "project": {
+        "id": 332,
+        "name": "Project #2 for Lazymine"
+      },
+      "tracker": {
+        "id": 14,
+        "name": "Deployment"
+      },
+      "status": {
+        "id": 1,
+        "name": "New"
+      },
+      "priority": {
+        "id": 2,
+        "name": "Normal"
+      },
+      "author": {
+        "id": 282,
+        "name": "yohangz"
+      },
+      "assigned_to": {
+        "id": 282,
+        "name": "yohangz"
+      },
+      "subject": "Deploy the Cats",
+      "description": "",
+      "start_date": "2015-06-12",
+      "done_ratio": 0,
+      "created_on": "2015-06-15T06:59:11Z",
+      "updated_on": "2015-06-15T06:59:11Z"
+    }
+  ],
+  "total_count": 5,
+  "offset": 0,
+  "limit": 100
+}

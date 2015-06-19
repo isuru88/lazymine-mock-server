@@ -1,0 +1,25 @@
+{
+  "name": "lazymine-mock-server",
+  "version": "1.0.0",
+  "description": "Mock Redmine Server for Lazymine",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isuru88/lazymine-mock-server.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isuru Jayasooriya",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "dateformat": "^1.0.11",
+    "express": "^4.12.4",
+    "request": "^2.55.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-nodemon": "^2.0.3"
+  }
+}
