@@ -1,7 +1,7 @@
 var gulp = require('gulp');
 var nodemon = require('gulp-nodemon');
 
-gulp.task('default', function() {
+gulp.task('mock-server', function() {
     nodemon({
         script: 'server.js'
         , ext: 'js json'
